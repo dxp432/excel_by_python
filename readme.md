@@ -4,8 +4,8 @@
 我学到了一点用python处理excel等东西，录制成视频放到网上去了，这里有代码。  
 
 ## 2、代码和视频链接
-001_今天学到了用python自动填写Excel表格-->>：[哔哩哔哩：001_今天学到了用python自动填写Excel表格](https://www.bilibili.com/video/av86253895/)。  
-002_多张excel统一集合成一张表格(使用python)-->>：[哔哩哔哩：002_多张excel统一集合成一张表格(使用python)]()。  
+视频-->>：[哔哩哔哩：001_今天学到了用python自动填写Excel表格](https://www.bilibili.com/video/av86253895/)。  
+视频-->>：[哔哩哔哩：002_多张excel统一集合成一张表格(使用python)]()。  
 
 ---
 关注微信公共账号：小鹏同学。
