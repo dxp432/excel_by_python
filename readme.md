@@ -8,7 +8,7 @@
 
 视频-->>：[哔哩哔哩：002_多张excel统一集合成一张表格(使用python)](https://www.bilibili.com/video/BV1k7411u7TC/)。  
 
-无视频视频-->>：哔哩哔哩：003_读取excel 
+无视频-->>003_读取excel 
 
 视频-->>：[哔哩哔哩：004_【python】今天学到了python自动两张表对比匹配](https://www.bilibili.com/video/BV1Wg4y1i7uM/)。  
 
