@@ -12,5 +12,7 @@
 
 视频-->>：[哔哩哔哩：004_【python】今天学到了python自动两张表对比匹配](https://www.bilibili.com/video/BV1Wg4y1i7uM/)。  
 
+视频-->>：[哔哩哔哩：005_【python】今天学到了python提取文件夹所有excel的名字---005_提取文件夹所有excel名字赋值到表格中](https://www.bilibili.com/video/BV1Ut4y1C7ty)。  
+
 ---
 关注微信公共账号：小鹏同学。
