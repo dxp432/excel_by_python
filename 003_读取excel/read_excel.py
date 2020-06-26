@@ -1,7 +1,8 @@
+# 第1步：一定是先导入我们的库
 import pandas as pd
 
-# 读取表
-# 返回的结果是dataframe
-df_mybooks = pd.DataFrame(pd.read_excel('books.xlsx', sheet_name='Sheet1'))
+# 第2步：读取表
+df_my_books = pd.read_excel('books.xlsx', sheet_name='Sheet1')
 
-print(df_mybooks)
+# 第3步：显示出来
+print(df_my_books)
